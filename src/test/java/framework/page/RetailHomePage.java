@@ -14,7 +14,7 @@ public class RetailHomePage extends BaseSetup{
 	
 	@FindBy(xpath = "//a[@class='top-nav__logo active']")
 	public WebElement logo;
-	
+	//*****************************************************
 	@FindBy(id = "search")
 	public WebElement allDepartment;
 	
@@ -26,5 +26,10 @@ public class RetailHomePage extends BaseSetup{
 	
 	@FindBy(xpath = "//img[@alt='PlayStation 5 Console']")
 	public WebElement playStationitem;
+	//**************************************8
+	@FindBy(xpath ="//span[text()='All']")
+	public WebElement allElement;
 	
+	@FindBy(id = "contentHeader")
+	public WebElement shopByDepartment;
 }

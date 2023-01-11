@@ -1,5 +1,7 @@
 package framework.steps;
 
+import static org.junit.Assert.assertEquals;
+
 import org.junit.Assert;
 
 import framework.page.POMFactory;
@@ -35,13 +37,13 @@ public class HomePageSteps extends CommonUtility {
 	@When("User change the catagory to {string}")
 	public void userChangeTheCatagoryTo(String value) {
 		selectByVisibleText(factory.homePage().allDepartment, value);
-		logger.info(value+ " Was selected from the drop down");
+		logger.info(value + " Was selected from the drop down");
 	}
 
 	@When("User search for item {string}")
 	public void userSearchForItem(String value) {
 		sendText(factory.homePage().searchInputField, value);
-		logger.info("user entered "+value);
+		logger.info("user entered " + value);
 	}
 
 	@When("user click on search icon")
@@ -55,4 +57,20 @@ public class HomePageSteps extends CommonUtility {
 		Assert.assertTrue(isElementDisplayed(factory.homePage().playStationitem));
 		logger.info("item is present");
 	}
+
+	// ***************************************************************************
+	@When("User click on All section")
+	public void userClickOnAllSection() {
+		click(factory.homePage().allElement);
+		logger.info("user clicked on All element");
+	}
+	
+	@Then("User verifies {string} is present")
+	public void userVerifies(String value) {
+		String expectedValue = "Shop By department";
+		String actualValue = getElementText(factory.homePage().shopByDepartment);
+		assertEquals(expectedValue, actualValue);
+		logger.info(actualValue+ " is present " + expectedValue);
+	}
+
 }

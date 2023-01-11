@@ -12,3 +12,10 @@
 2023-01-11 12:41:25,195 - logger_File -INFO - user entered PlayStation
 2023-01-11 12:41:25,262 - logger_File -INFO - user clicked on search button
 2023-01-11 12:41:25,339 - logger_File -INFO - item is present
+2023-01-11 18:34:45,516 - logger_File -INFO - React App is equal to React App
+2023-01-11 18:34:45,685 - logger_File -INFO - user clicked on All element
+2023-01-11 18:36:12,259 - logger_File -INFO - React App is equal to React App
+2023-01-11 18:36:12,414 - logger_File -INFO - user clicked on All element
+2023-01-11 18:42:44,063 - logger_File -INFO - React App is equal to React App
+2023-01-11 18:42:44,233 - logger_File -INFO - user clicked on All element
+2023-01-11 18:42:44,284 - logger_File -INFO - Shop By department is presentShop By department
