@@ -58,7 +58,7 @@ public class HomePageSteps extends CommonUtility {
 		logger.info("item is present");
 	}
 
-	// ***************************************************************************
+	// **********Verify user can click on all section***********************************
 	@When("User click on All section")
 	public void userClickOnAllSection() {
 		click(factory.homePage().allElement);

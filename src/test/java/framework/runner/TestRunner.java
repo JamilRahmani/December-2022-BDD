@@ -9,7 +9,7 @@ import io.cucumber.junit.CucumberOptions;
 
 @RunWith(Cucumber.class)
 @CucumberOptions(
-		 tags = "@Test1",
+		 tags = "@Login",
 	        features = ("classpath:features"),
 	        glue="framework",
 	        dryRun = false,

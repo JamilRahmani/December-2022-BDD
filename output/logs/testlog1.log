@@ -19,3 +19,34 @@
 2023-01-11 18:42:44,063 [main] INFO logger_File - React App is equal to React App
 2023-01-11 18:42:44,233 [main] INFO logger_File - user clicked on All element
 2023-01-11 18:42:44,284 [main] INFO logger_File - Shop By department is presentShop By department
+2023-01-19 17:57:32,547 [main] INFO logger_File - React App is equal to React App
+2023-01-19 17:57:32,653 [main] INFO logger_File - user clicked on All element
+2023-01-19 17:57:32,712 [main] INFO logger_File - Shop By department is present Shop By department
+2023-01-24 16:01:32,749 [main] INFO logger_File - React App is equal to React App
+2023-01-24 18:56:03,164 [main] INFO logger_File - React App is equal to React App
+2023-01-24 18:56:03,305 [main] INFO logger_File - User cliked on the sign in option
+2023-01-24 18:56:03,558 [main] INFO logger_File - User entered email khan@gmail.com and password password1$
+2023-01-24 18:59:05,508 [main] INFO logger_File - React App is equal to React App
+2023-01-24 18:59:05,730 [main] INFO logger_File - User cliked on the sign in option
+2023-01-24 18:59:05,976 [main] INFO logger_File - User entered email khan@gmail.com and password password1$
+2023-01-24 18:59:13,077 [main] INFO logger_File - User clicked on login button
+2023-01-24 19:00:04,431 [main] INFO logger_File - React App is equal to React App
+2023-01-24 19:00:04,672 [main] INFO logger_File - User cliked on the sign in option
+2023-01-24 19:00:05,026 [main] INFO logger_File - User entered email khan@gmail.com and password password1$
+2023-01-24 19:06:21,882 [main] INFO logger_File - React App is equal to React App
+2023-01-24 19:06:22,058 [main] INFO logger_File - User cliked on the sign in option
+2023-01-24 19:06:22,208 [main] INFO logger_File - User entered email khan@gmail.com and password password1$
+2023-01-24 19:11:33,340 [main] INFO logger_File - React App is equal to React App
+2023-01-24 19:11:33,483 [main] INFO logger_File - User cliked on the sign in option
+2023-01-24 19:11:33,701 [main] INFO logger_File - User entered email khan@gmail.com and password password1$
+2023-01-24 19:11:38,775 [main] INFO logger_File - User clicked on login button
+2023-02-14 17:32:43,635 [main] INFO logger_File - React App is equal to React App
+2023-02-14 17:32:43,697 [main] INFO logger_File - logo is present
+2023-02-14 17:32:45,131 [main] INFO logger_File - React App is equal to React App
+2023-02-14 17:32:45,263 [main] INFO logger_File - Electronics Was selected from the drop down
+2023-02-14 17:32:45,360 [main] INFO logger_File - user entered PlayStation
+2023-02-14 17:32:45,429 [main] INFO logger_File - user clicked on search button
+2023-02-14 17:32:45,521 [main] INFO logger_File - item is present
+2023-02-14 17:32:46,753 [main] INFO logger_File - React App is equal to React App
+2023-02-14 17:32:46,868 [main] INFO logger_File - user clicked on All element
+2023-02-14 17:32:46,914 [main] INFO logger_File - Shop By department is present Shop By department

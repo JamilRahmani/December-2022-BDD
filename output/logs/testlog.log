@@ -19,3 +19,34 @@
 2023-01-11 18:42:44,063 - logger_File -INFO - React App is equal to React App
 2023-01-11 18:42:44,233 - logger_File -INFO - user clicked on All element
 2023-01-11 18:42:44,284 - logger_File -INFO - Shop By department is presentShop By department
+2023-01-19 17:57:32,547 - logger_File -INFO - React App is equal to React App
+2023-01-19 17:57:32,653 - logger_File -INFO - user clicked on All element
+2023-01-19 17:57:32,712 - logger_File -INFO - Shop By department is present Shop By department
+2023-01-24 16:01:32,749 - logger_File -INFO - React App is equal to React App
+2023-01-24 18:56:03,164 - logger_File -INFO - React App is equal to React App
+2023-01-24 18:56:03,305 - logger_File -INFO - User cliked on the sign in option
+2023-01-24 18:56:03,558 - logger_File -INFO - User entered email khan@gmail.com and password password1$
+2023-01-24 18:59:05,508 - logger_File -INFO - React App is equal to React App
+2023-01-24 18:59:05,730 - logger_File -INFO - User cliked on the sign in option
+2023-01-24 18:59:05,976 - logger_File -INFO - User entered email khan@gmail.com and password password1$
+2023-01-24 18:59:13,077 - logger_File -INFO - User clicked on login button
+2023-01-24 19:00:04,431 - logger_File -INFO - React App is equal to React App
+2023-01-24 19:00:04,672 - logger_File -INFO - User cliked on the sign in option
+2023-01-24 19:00:05,026 - logger_File -INFO - User entered email khan@gmail.com and password password1$
+2023-01-24 19:06:21,882 - logger_File -INFO - React App is equal to React App
+2023-01-24 19:06:22,058 - logger_File -INFO - User cliked on the sign in option
+2023-01-24 19:06:22,208 - logger_File -INFO - User entered email khan@gmail.com and password password1$
+2023-01-24 19:11:33,340 - logger_File -INFO - React App is equal to React App
+2023-01-24 19:11:33,483 - logger_File -INFO - User cliked on the sign in option
+2023-01-24 19:11:33,701 - logger_File -INFO - User entered email khan@gmail.com and password password1$
+2023-01-24 19:11:38,775 - logger_File -INFO - User clicked on login button
+2023-02-14 17:32:43,635 - logger_File -INFO - React App is equal to React App
+2023-02-14 17:32:43,697 - logger_File -INFO - logo is present
+2023-02-14 17:32:45,131 - logger_File -INFO - React App is equal to React App
+2023-02-14 17:32:45,263 - logger_File -INFO - Electronics Was selected from the drop down
+2023-02-14 17:32:45,360 - logger_File -INFO - user entered PlayStation
+2023-02-14 17:32:45,429 - logger_File -INFO - user clicked on search button
+2023-02-14 17:32:45,521 - logger_File -INFO - item is present
+2023-02-14 17:32:46,753 - logger_File -INFO - React App is equal to React App
+2023-02-14 17:32:46,868 - logger_File -INFO - user clicked on All element
+2023-02-14 17:32:46,914 - logger_File -INFO - Shop By department is present Shop By department

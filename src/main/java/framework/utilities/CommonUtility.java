@@ -221,5 +221,13 @@ public class CommonUtility extends BaseSetup {
 
 	}
 	
+	public void slowDown() {
+		try {
+			Thread.sleep(5000);
+		}catch (InterruptedException e) {
+			e.printStackTrace();
+		}
+	}
+	
 
 }
