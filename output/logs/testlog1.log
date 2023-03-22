@@ -50,3 +50,11 @@
 2023-02-14 17:32:46,753 [main] INFO logger_File - React App is equal to React App
 2023-02-14 17:32:46,868 [main] INFO logger_File - user clicked on All element
 2023-02-14 17:32:46,914 [main] INFO logger_File - Shop By department is present Shop By department
+2023-02-21 15:10:02,657 [main] INFO logger_File - React App is equal to React App
+2023-02-21 15:10:02,815 [main] INFO logger_File - User cliked on the sign in option
+2023-02-21 15:10:03,000 [main] INFO logger_File - User entered email khan@gmail.com and password password1$
+2023-02-21 15:10:08,123 [main] INFO logger_File - User clicked on login button
+2023-03-22 13:05:17,409 [main] INFO logger_File - React App is equal to React App
+2023-03-22 13:05:17,438 [main] INFO logger_File - logo is present
+2023-03-22 13:06:25,500 [main] INFO logger_File - React App is equal to React App
+2023-03-22 13:06:25,551 [main] INFO logger_File - logo is present

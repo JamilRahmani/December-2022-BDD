@@ -5,7 +5,7 @@ import org.openqa.selenium.edge.EdgeDriver;
 
 import io.github.bonigarcia.wdm.WebDriverManager;
 
-public class EdgeBrowser {
+public class EdgeBrowser implements Browser{
 
 	public WebDriver openBrowser(String url) {
 		WebDriverManager.edgedriver().setup();
