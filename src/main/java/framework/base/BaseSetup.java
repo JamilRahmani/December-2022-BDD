@@ -1,9 +1,11 @@
 package framework.base;
 
 import java.io.FileNotFoundException;
+
 import java.time.Duration;
 import java.time.temporal.ChronoUnit;
 import java.util.HashMap;
+
 import org.apache.log4j.Logger;
 import org.apache.log4j.PropertyConfigurator;
 import org.openqa.selenium.WebDriver;
